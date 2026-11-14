@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "id": "fig-1",
+  "width": {
+    "mm": 178
+  },
+  "letters": {
+    "size_pt": 10,
+    "offset_mm": [
+      0,
+      0
+    ],
+    "weight": "bold",
+    "case": "lower"
+  },
+  "producers": [
+    {
+      "id": "make",
+      "run": [
+        "python",
+        "figures/fig-1/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-1/example_night/hypnogram.csv",
+        "source_data/fig-1/example_night/raster.csv",
+        "source_data/fig-1/example_night/traces.csv",
+        "source_data/fig-1/example_night/detections.csv",
+        "source_data/fig-1/example_night/criteria.csv",
+        "source_data/fig-1/example_night/meta.csv",
+        "source_data/fig-1/example_night/montage.csv"
+      ],
+      "panels": [
+        "night",
+        "criteria",
+        "traces"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "night",
+      "letter": "a",
+      "place": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 86
+      }
+    },
+    {
+      "id": "criteria",
+      "letter": "b",
+      "place": {
+        "x": 0,
+        "y": 88,
+        "w": 66,
+        "h": 60
+      }
+    },
+    {
+      "id": "traces",
+      "letter": "c",
+      "place": {
+        "x": 68,
+        "y": 88,
+        "w": 110,
+        "h": 60
+      }
+    }
+  ],
+  "annotations": [],
+  "namespace": "main"
+}

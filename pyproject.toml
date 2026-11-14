@@ -1,0 +1,31 @@
+[project]
+name = "pediatric-spindles-hi"
+version = "2.0.0"
+description = "Analysis code, main figures and tables of the pediatric hdEEG sleep-spindle / hypopnea study"
+requires-python = "==3.12.*"
+dependencies = [
+  "yasa==0.6.5",
+  "mne==1.11.0",
+  "numpy==2.5.3",
+  "scipy==1.18.1",
+  "numba==0.67.0",
+  "pymatreader==1.3.2",
+  "pandas==3.0.6",
+  "statsmodels==0.15.0",
+  "patsy==1.0.3",
+  "formulaic==1.2.2",
+  "h5py==3.16.0",
+  "pyarrow==25.0.1",
+  "matplotlib==3.10.8",
+  "pillow==12.1.1",
+  "openpyxl>=3.1.5",
+  "resvg-py==0.5.0",
+  "idofig @ git+https://github.com/idossha/idofig@8557f0053b5b511027cb8ab385b54e530395dfbc",
+]
+
+[tool.uv]
+package = false
+
+[tool.idofig]
+figures = "figures"
+journal = "suna"

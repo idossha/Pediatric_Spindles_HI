@@ -1,0 +1,22 @@
+,Value,n
+Sleep architecture,,
+Total sleep time (min),"516.6 (271.0, 701.5)",62
+Sleep efficiency (%),"87.3 (65.9, 99.3)",59
+Wake after sleep onset (min),"52.8 (2.5, 160.0)",62
+N1 (% of TST),"2.6 (0.3, 12.0)",62
+N2 (% of TST),"44.0 (28.1, 61.5)",62
+N3 (% of TST),"29.1 (14.0, 43.2)",62
+REM (% of TST),"24.2 (12.8, 37.2)",62
+Arousal index (events/h),"13.9 (4.2, 49.0)",62
+Fast spindles (12–16 Hz),,
+Count (detections per channel),"136.6 (0.2, 628.0)",62
+Density (events/min),"0.43 (0.00, 1.94)",62
+Amplitude (µV),"54.6 (27.6, 79.8)",62
+Duration (s),"0.84 (0.63, 1.02)",62
+Frequency (Hz),"12.5 (12.2, 13.0)",62
+Slow spindles (10–12 Hz),,
+Count (detections per channel),"197.1 (1.6, 699.7)",62
+Density (events/min),"0.61 (0.01, 2.01)",62
+Amplitude (µV),"55.2 (31.2, 94.0)",62
+Duration (s),"0.88 (0.71, 1.04)",62
+Frequency (Hz),"11.4 (10.9, 11.7)",62

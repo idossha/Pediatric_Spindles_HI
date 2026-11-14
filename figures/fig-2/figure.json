@@ -1,0 +1,42 @@
+{
+  "schema": 2,
+  "id": "fig-2",
+  "width": {
+    "mm": 170
+  },
+  "letters": {
+    "size_pt": 10,
+    "offset_mm": [
+      0,
+      0
+    ],
+    "weight": "bold",
+    "case": "lower"
+  },
+  "producers": [
+    {
+      "id": "make",
+      "run": [
+        "python",
+        "figures/fig-2/make.py"
+      ],
+      "inputs": [],
+      "panels": [
+        "schematic"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "schematic",
+      "place": {
+        "x": 0.0,
+        "y": 1.0,
+        "w": 165.9,
+        "h": 57.41
+      }
+    }
+  ],
+  "annotations": [],
+  "namespace": "main"
+}

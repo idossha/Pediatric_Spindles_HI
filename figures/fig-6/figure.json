@@ -1,0 +1,94 @@
+{
+  "schema": 3,
+  "id": "fig-6",
+  "width": {
+    "mm": 178
+  },
+  "letters": {
+    "size_pt": 10,
+    "offset_mm": [
+      0,
+      0
+    ],
+    "weight": "bold",
+    "case": "lower"
+  },
+  "producers": [
+    {
+      "id": "make",
+      "run": [
+        "python",
+        "figures/fig-6/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-6/hypopnea_type_example_hypnogram.csv",
+        "source_data/fig-6/hypopnea_type_example_events.csv",
+        "source_data/fig-6/hypopnea_type_example_spindles.csv",
+        "source_data/fig-6/hypopnea_type_tmaps.csv",
+        "source_data/fig-6/hypopnea_type_children.csv",
+        "source_data/fig-6/hypopnea_type_windows.csv",
+        "source_data/fig-6/hypopnea_type_clusters.csv",
+        "source_data/fig-6/hypopnea_type_models.csv",
+        "source_data/fig-6/cluster_tmaps.csv"
+      ],
+      "panels": [
+        "night",
+        "composition",
+        "maps",
+        "forest"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "night",
+      "letter": "a",
+      "place": {
+        "x": 0.0,
+        "y": 1.5,
+        "w": 178.0,
+        "h": 60.5
+      }
+    },
+    {
+      "id": "composition",
+      "letter": "b",
+      "place": {
+        "x": 0.0,
+        "y": 63.5,
+        "w": 63.0,
+        "h": 56.0
+      }
+    },
+    {
+      "id": "maps",
+      "letter": "c",
+      "place": {
+        "x": 63.0,
+        "y": 63.5,
+        "w": 115.0,
+        "h": 37.0
+      },
+      "letter_offset_mm": [
+        10,
+        0
+      ]
+    },
+    {
+      "id": "forest",
+      "letter": "d",
+      "place": {
+        "x": 63.0,
+        "y": 100.5,
+        "w": 115.0,
+        "h": 19.0
+      },
+      "letter_offset_mm": [
+        10,
+        0
+      ]
+    }
+  ],
+  "annotations": [],
+  "namespace": "main"
+}

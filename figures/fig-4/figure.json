@@ -1,0 +1,45 @@
+{
+  "schema": 2,
+  "id": "fig-4",
+  "width": {
+    "mm": 125
+  },
+  "letters": {
+    "size_pt": 10,
+    "offset_mm": [
+      0,
+      0.14
+    ],
+    "weight": "bold",
+    "case": "lower"
+  },
+  "producers": [
+    {
+      "id": "maps",
+      "run": [
+        "python",
+        "figures/fig-4/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-4/cluster_tmaps.csv",
+        "source_data/fig-4/cluster_permutation_results.csv"
+      ],
+      "panels": [
+        "maps"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "maps",
+      "place": {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 76
+      }
+    }
+  ],
+  "annotations": [],
+  "namespace": "main"
+}

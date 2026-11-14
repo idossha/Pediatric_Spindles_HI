@@ -1,0 +1,5 @@
+channel,band,start,end,Frequency
+FCz,slow,4.39,5.91,11.3875
+Fz,slow,4.32,5.95,11.3478
+CPz,fast,1.8,2.45,12.5881
+Pz,fast,1.68,2.72,13.0595

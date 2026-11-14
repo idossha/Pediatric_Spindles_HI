@@ -1,0 +1,19 @@
+# environments and caches
+.venv/
+code/.cache/
+__pycache__/
+*.pyc
+.ruff_cache/
+.idofig/
+.DS_Store
+
+# reproduced figures (./reproduce.sh) and pipeline outputs (code/run_all.py)
+output/
+results/
+figures/*/figure.svg
+figures/*/figure.lock.json
+figures/*/panels/*/panel.svg
+figures/*/panels/*/manifest.json
+
+# the study data are not part of this repository
+data/

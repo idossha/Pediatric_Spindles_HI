@@ -1,0 +1,148 @@
+{
+  "schema": 3,
+  "id": "fig-3",
+  "width": {
+    "mm": 85
+  },
+  "letters": {
+    "size_pt": 10,
+    "offset_mm": [
+      0,
+      0
+    ],
+    "weight": "bold",
+    "case": "lower"
+  },
+  "producers": [
+    {
+      "id": "maps",
+      "run": [
+        "python",
+        "figures/fig-3/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-3/grid_maps.csv"
+      ],
+      "panels": [
+        "density-fast",
+        "density-slow",
+        "duration-fast",
+        "duration-slow",
+        "amplitude-fast",
+        "amplitude-slow",
+        "frequency-fast",
+        "frequency-slow"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "density-fast",
+      "place": {
+        "x": 0.89,
+        "y": 0.89,
+        "w": 47.07,
+        "h": 31.67
+      },
+      "letter_offset_mm": [
+        7.3,
+        0
+      ],
+      "letter": "a"
+    },
+    {
+      "id": "density-slow",
+      "place": {
+        "x": 48.84,
+        "y": 0.89,
+        "w": 35.27,
+        "h": 31.67
+      },
+      "letter_offset_mm": [
+        -4.5,
+        0
+      ],
+      "letter": "b"
+    },
+    {
+      "id": "duration-fast",
+      "place": {
+        "x": 0.89,
+        "y": 33.44,
+        "w": 47.07,
+        "h": 31.67
+      },
+      "letter_offset_mm": [
+        7.3,
+        0
+      ]
+    },
+    {
+      "id": "duration-slow",
+      "place": {
+        "x": 48.84,
+        "y": 33.44,
+        "w": 35.27,
+        "h": 31.67
+      },
+      "letter_offset_mm": [
+        -4.5,
+        0
+      ]
+    },
+    {
+      "id": "amplitude-fast",
+      "place": {
+        "x": 0.89,
+        "y": 66.0,
+        "w": 47.07,
+        "h": 31.67
+      },
+      "letter_offset_mm": [
+        7.3,
+        0
+      ]
+    },
+    {
+      "id": "amplitude-slow",
+      "place": {
+        "x": 48.84,
+        "y": 66.0,
+        "w": 35.27,
+        "h": 31.67
+      },
+      "letter_offset_mm": [
+        -4.5,
+        0
+      ]
+    },
+    {
+      "id": "frequency-fast",
+      "place": {
+        "x": 0.89,
+        "y": 98.55,
+        "w": 47.07,
+        "h": 31.67
+      },
+      "letter_offset_mm": [
+        7.3,
+        0
+      ]
+    },
+    {
+      "id": "frequency-slow",
+      "place": {
+        "x": 48.84,
+        "y": 98.55,
+        "w": 35.27,
+        "h": 31.67
+      },
+      "letter_offset_mm": [
+        -4.5,
+        0
+      ]
+    }
+  ],
+  "annotations": [],
+  "namespace": "main"
+}

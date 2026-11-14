@@ -1,0 +1,50 @@
+{
+  "title": "Pediatric_Spindles_HI: analysis code, main figures and tables of \"Anterior Fast Spindle Duration is Associated with Both Hypopnea Burden and Attentional Performance in Children\"",
+  "upload_type": "software",
+  "description": "The analysis pipeline, and the drawing scripts, layouts and summarized source data that re-render the main figures (Figures 1–6), with the main tables (Tables 1–3) of the paper. Participant-level and raw data are available from the corresponding author on reasonable request.",
+  "creators": [
+    {
+      "name": "Haber, Ido",
+      "affiliation": "Department of Psychiatry, University of Wisconsin, Madison, WI, USA; Department of Biomedical Engineering, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Taporoski, Tamara P.",
+      "affiliation": "Department of Psychiatry, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Peterson, Beth",
+      "affiliation": "Department of Psychiatry, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Matthews, Camilla",
+      "affiliation": "Department of Pediatrics, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Kille, Tony",
+      "affiliation": "Department of Otolaryngology-Head and Neck Surgery, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Myers, Annika",
+      "affiliation": "Department of Psychiatry, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Riedner, Brady",
+      "affiliation": "Department of Psychiatry, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Strainis, Emma",
+      "affiliation": "Department of Psychiatry, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Vascan, Ana Maria",
+      "affiliation": "Department of Psychiatry, University of Wisconsin, Madison, WI, USA"
+    },
+    {
+      "name": "Jones, Stephanie G.",
+      "affiliation": "Department of Psychiatry, University of Wisconsin, Madison, WI, USA"
+    }
+  ],
+  "license": "MIT",
+  "version": "2.0.0",
+  "keywords": ["sleep spindles", "sleep-disordered breathing", "hypopnea index", "high-density EEG", "attentional performance"]
+}

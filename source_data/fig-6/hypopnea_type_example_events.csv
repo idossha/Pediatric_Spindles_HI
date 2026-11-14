@@ -1,0 +1,284 @@
+kind,cls,label,stage,t_start,t_end,spo2_drop
+desat,,signal desaturation,0,94,96,3
+desat,,signal desaturation,0,132,136,5
+desat,,signal desaturation,0,170,172,4
+desat,,signal desaturation,0,243,253,3
+desat,,signal desaturation,0,377,385,4
+desat,,signal desaturation,0,403,407,8
+desat,,signal desaturation,0,440,445,4
+desat,,signal desaturation,0,511,531,10
+desat,,signal desaturation,0,572,592,7
+desat,,signal desaturation,0,1038,1044,6
+desat,,signal desaturation,0,1081,1093,3
+desat,,signal desaturation,0,1174,1178,5
+desat,,signal desaturation,0,1364,1372,5
+arousal,,Arousal 1 ARO SPONT,2,1724,1726.8,
+arousal,,Arousal 1 ARO SPONT,2,1743,1747.3,
+arousal,,Arousal 4 ARO PLM,1,1815,1817.2,
+arousal,,Arousal 4 ARO PLM,2,1969,1972,
+arousal,,Arousal 1 ARO SPONT,2,2469,2471.3,
+arousal,,Arousal 1 ARO SPONT,3,3396,3398.1,
+arousal,,Arousal 1 ARO SPONT,3,4124,4133.6,
+arousal,,Arousal 1 ARO SPONT,0,4147,4149.8,
+arousal,,Arousal 1 ARO SPONT,3,4176,4180.9,
+hypopnea,arousal_only,Hypopnea,3,4181,4209.1,
+arousal,,Arousal 2 ARO RES,2,4209,4212,
+hypopnea,arousal_only,Hypopnea,2,4228,4236.2,
+arousal,,Arousal 2 ARO RES,2,4237,4240,
+arousal,,Arousal 1 ARO SPONT,3,4458,4461,
+arousal,,Arousal 3 ARO Limb,2,4489,4492,
+hypopnea,desaturating,Hypopnea,2,4500,4517.3,4
+desat,,signal desaturation,2,4526,4533,5
+arousal,,Arousal 1 ARO SPONT,2,4566,4568.6,
+hypopnea,arousal_only,Hypopnea,2,4590,4618.2,
+arousal,,Arousal 2 ARO RES,2,4616,4619.5,
+arousal,,Arousal 1 ARO SPONT,2,4646,4649,
+arousal,,Arousal 1 ARO SPONT,2,5166,5168.8,
+arousal,,Arousal 1 ARO SPONT,5,5326,5328.3,
+hypopnea,unknown,Hypopnea,3,8437,8448.4,
+arousal,,Arousal 1 ARO SPONT,3,8441,8444,
+arousal,,Arousal 1 ARO SPONT,3,8479,8482,
+hypopnea,unknown,Hypopnea,3,8548,8565.1,
+arousal,,Arousal 2 ARO RES,3,8566,8569,
+arousal,,Arousal 1 ARO SPONT,3,8581,8584,
+arousal,,Arousal 1 ARO SPONT,3,8604,8607,
+desat,,signal desaturation,2,8649,8655,3
+arousal,,Arousal 1 ARO SPONT,2,8696,8699,
+arousal,,Arousal 1 ARO SPONT,3,8958,8961,
+arousal,,Arousal 1 ARO SPONT,2,9090,9093,
+desat,,signal desaturation,0,9208,9211,4
+desat,,signal desaturation,0,9219,9236,5
+arousal,,Arousal 1 ARO SPONT,1,9269,9272,
+desat,,signal desaturation,0,9284,9289,6
+desat,,signal desaturation,0,9331,9333,3
+desat,,signal desaturation,0,9362,9364,3
+desat,,signal desaturation,0,9373,9376,6
+arousal,,Arousal 1 ARO SPONT,2,9812,9815,
+arousal,,Arousal 1 ARO SPONT,3,10689,10692.8,
+arousal,,Arousal 1 ARO SPONT,3,10736,10739,
+arousal,,Arousal 1 ARO SPONT,3,10743,10746,
+arousal,,Arousal 1 ARO SPONT,3,10759,10762,
+arousal,,Arousal 1 ARO SPONT,3,10771,10774.9,
+arousal,,Arousal 1 ARO SPONT,2,10831,10834,
+arousal,,Arousal 1 ARO SPONT,2,10882,10885,
+arousal,,Arousal 1 ARO SPONT,2,10959,10962,
+arousal,,Arousal 3 ARO Limb,2,11118,11122.2,
+arousal,,Arousal 3 ARO Limb,2,11358,11361,
+arousal,,Arousal 1 ARO SPONT,2,11424,11427,
+desat,,signal desaturation,0,11473,11475,3
+arousal,,Arousal 1 ARO SPONT,2,12070,12073,
+arousal,,Arousal 1 ARO SPONT,5,12233,12236,
+arousal,,Arousal 1 ARO SPONT,5,12429,12430.2,
+arousal,,Arousal 1 ARO SPONT,5,12552,12555.4,
+arousal,,Arousal 1 ARO SPONT,5,12564,12567,
+arousal,,Arousal 3 ARO Limb,5,12740,12743,
+desat,,signal desaturation,5,12835,12839,4
+arousal,,Arousal 1 ARO SPONT,5,12942,12943.9,
+arousal,,Arousal 1 ARO SPONT,5,13211,13214,
+arousal,,Arousal 1 ARO SPONT,5,13362,13365,
+arousal,,Arousal 3 ARO Limb,5,13428,13431,
+hypopnea,desaturating,Hypopnea,2,14073,14083.4,4
+desat,,signal desaturation,2,14095,14101,4
+arousal,,Arousal 1 ARO SPONT,2,14423,14426,
+arousal,,Arousal 1 ARO SPONT,3,15559,15562.8,
+arousal,,Arousal 1 ARO SPONT,3,15849,15852.9,
+arousal,,Arousal 1 ARO SPONT,3,16556,16560,
+arousal,,Arousal 1 ARO SPONT,3,16573,16575.7,
+arousal,,Arousal 1 ARO SPONT,3,16588,16593.1,
+arousal,,Arousal 1 ARO SPONT,2,16847,16850,
+arousal,,Arousal 1 ARO SPONT,2,16894,16897,
+hypopnea,desaturating,Hypopnea,2,17037,17047.4,3
+arousal,,Arousal 2 ARO RES,2,17049,17053.6,
+desat,,signal desaturation,2,17057,17061,3
+arousal,,Arousal 1 ARO SPONT,2,17137,17140,
+arousal,,Arousal 1 ARO SPONT,2,17146,17149,
+arousal,,Arousal 1 ARO SPONT,0,17162,17165,
+desat,,signal desaturation,0,17190,17195,5
+arousal,,Arousal 1 ARO SPONT,2,17413,17415,
+arousal,,Arousal 1 ARO SPONT,2,18461,18464,
+arousal,,Arousal 1 ARO SPONT,0,18491,18494,
+desat,,signal desaturation,0,18547,18553,3
+arousal,,Arousal 1 ARO SPONT,2,18572,18574.5,
+arousal,,Arousal 3 ARO Limb,2,18852,18855,
+arousal,,Arousal 1 ARO SPONT,2,18967,18970,
+arousal,,Arousal 3 ARO Limb,2,19100,19103.2,
+arousal,,Arousal 1 ARO SPONT,2,20416,20419,
+arousal,,Arousal 1 ARO SPONT,5,20863,20866,
+arousal,,Arousal 2 ARO RES,5,20906,20909,
+arousal,,Arousal 2 ARO RES,5,21178,21181,
+arousal,,Arousal 1 ARO SPONT,5,21196,21199,
+arousal,,Arousal 1 ARO SPONT,5,21260,21263,
+arousal,,Arousal 1 ARO SPONT,5,21461,21464,
+arousal,,Arousal 1 ARO SPONT,5,21545,21548,
+arousal,,Arousal 2 ARO RES,5,21656,21659,
+desat,,signal desaturation,5,21667,21670,3
+arousal,,Arousal 1 ARO SPONT,5,21831,21834.5,
+arousal,,Arousal 2 ARO RES,5,22001,22004,
+desat,,signal desaturation,5,22009,22012,3
+arousal,,Arousal 1 ARO SPONT,5,22249,22252.1,
+arousal,,Arousal 1 ARO SPONT,5,22611,22616.4,
+arousal,,Arousal 1 ARO SPONT,5,22809,22812.2,
+arousal,,Arousal 1 ARO SPONT,5,22869,22871.5,
+arousal,,Arousal 1 ARO SPONT,5,22887,22890,
+arousal,,Arousal 1 ARO SPONT,2,23239,23241.9,
+arousal,,Arousal 1 ARO SPONT,3,24342,24345,
+arousal,,Arousal 1 ARO SPONT,3,24380,24383,
+arousal,,Arousal 1 ARO SPONT,3,24673,24676,
+arousal,,Arousal 1 ARO SPONT,2,24693,24696.6,
+arousal,,Arousal 3 ARO Limb,2,24759,24762,
+arousal,,Arousal 1 ARO SPONT,2,24770,24773,
+desat,,signal desaturation,2,24779,24783,4
+arousal,,Arousal 1 ARO SPONT,2,25066,25069,
+arousal,,Arousal 1 ARO SPONT,2,25506,25509,
+arousal,,Arousal 1 ARO SPONT,2,25532,25535,
+arousal,,Arousal 3 ARO Limb,2,25572,25575,
+arousal,,Arousal 1 ARO SPONT,2,25598,25601,
+hypopnea,arousal_only,Hypopnea,2,25652,25668.2,
+arousal,,Arousal 2 ARO RES,2,25669,25672,
+hypopnea,arousal_only,Hypopnea,2,25680,25695.7,
+arousal,,Arousal 2 ARO RES,2,25695,25698,
+arousal,,Arousal 3 ARO Limb,2,25714,25716.8,
+arousal,,Arousal 1 ARO SPONT,2,25777,25780,
+hypopnea,arousal_only,Hypopnea,2,25810,25831.9,
+arousal,,Arousal 2 ARO RES,0,25831,25834,
+arousal,,Arousal 1 ARO SPONT,2,26330,26333,
+arousal,,Arousal 1 ARO SPONT,2,26353,26356,
+arousal,,Arousal 1 ARO SPONT,2,26473,26476,
+arousal,,Arousal 1 ARO SPONT,2,26482,26485,
+arousal,,Arousal 1 ARO SPONT,1,26538,26541,
+arousal,,Arousal 1 ARO SPONT,2,26723,26726,
+arousal,,Arousal 1 ARO SPONT,1,26734,26737,
+arousal,,Arousal 1 ARO SPONT,1,26751,26754,
+arousal,,Arousal 1 ARO SPONT,1,26764,26767,
+arousal,,Arousal 1 ARO SPONT,1,26803,26806,
+arousal,,Arousal 1 ARO SPONT,2,26837,26840,
+arousal,,Arousal 1 ARO SPONT,2,26954,26955.5,
+arousal,,Arousal 1 ARO SPONT,2,27137,27140,
+arousal,,Arousal 1 ARO SPONT,2,27639,27642,
+arousal,,Arousal 1 ARO SPONT,5,27814,27817,
+arousal,,Arousal 3 ARO Limb,5,27905,27908,
+arousal,,Arousal 2 ARO RES,5,28247,28250,
+desat,,signal desaturation,5,28263,28266,3
+arousal,,Arousal 1 ARO SPONT,5,28311,28314,
+desat,,signal desaturation,5,28321,28330,5
+arousal,,Arousal 2 ARO RES,5,28483,28486,
+desat,,signal desaturation,5,28492,28501,6
+arousal,,Arousal 2 ARO RES,5,28546,28549,
+arousal,,Arousal 2 ARO RES,5,28702,28705,
+arousal,,Arousal 2 ARO RES,5,28727,28730,
+desat,,signal desaturation,5,28735,28742,7
+arousal,,Arousal 2 ARO RES,5,28749,28752,
+desat,,signal desaturation,5,28758,28766,4
+arousal,,Arousal 1 ARO SPONT,5,28805,28808,
+arousal,,Arousal 1 ARO SPONT,5,28882,28885,
+arousal,,Arousal 1 ARO SPONT,5,28916,28919,
+arousal,,Arousal 2 ARO RES,5,28963,28966,
+arousal,,Arousal 1 ARO SPONT,3,30938,30940.4,
+arousal,,Arousal 1 ARO SPONT,3,31037,31040,
+hypopnea,arousal_only,Hypopnea,3,31243,31256.6,
+arousal,,Arousal 1 ARO SPONT,3,31250,31253,
+desat,,signal desaturation,5,31635,31638,3
+desat,,signal desaturation,5,31650,31654,5
+arousal,,Arousal 1 ARO SPONT,5,31676,31679,
+desat,,signal desaturation,5,31694,31696,3
+arousal,,Arousal 1 ARO SPONT,5,31787,31790,
+arousal,,Arousal 1 ARO SPONT,5,31834,31837,
+arousal,,Arousal 1 ARO SPONT,2,31992,31995,
+arousal,,Arousal 1 ARO SPONT,5,32130,32133.7,
+arousal,,Arousal 1 ARO SPONT,5,32206,32209,
+arousal,,Arousal 1 ARO SPONT,5,32340,32343,
+arousal,,Arousal 3 ARO Limb,5,32450,32453,
+arousal,,Arousal 2 ARO RES,5,32579,32582,
+arousal,,Arousal 1 ARO SPONT,2,32629,32633,
+hypopnea,desaturating,Hypopnea,2,32792,32805.8,3
+arousal,,Arousal 2 ARO RES,2,32807,32810,
+desat,,signal desaturation,2,32814,32819,3
+hypopnea,unknown,Hypopnea,2,32847,32858.5,
+arousal,,Arousal 2 ARO RES,2,32859,32862,
+hypopnea,arousal_only,Hypopnea,2,33108,33125.5,
+arousal,,Arousal 2 ARO RES,2,33126,33129,
+arousal,,Arousal 1 ARO SPONT,2,33133,33136,
+arousal,,Arousal 1 ARO SPONT,2,33163,33166,
+desat,,signal desaturation,2,33426,33428,3
+hypopnea,arousal_only,Hypopnea,2,33500,33520.2,2
+arousal,,Arousal 2 ARO RES,2,33520,33523,
+arousal,,Arousal 1 ARO SPONT,2,33788,33790.7,
+hypopnea,unclassified,Hypopnea,2,34222,34246,
+arousal,,Arousal 1 ARO SPONT,2,34362,34365.1,
+arousal,,Arousal 1 ARO SPONT,2,34844,34847,
+desat,,signal desaturation,2,34930,34932,3
+arousal,,Arousal 1 ARO SPONT,5,35166,35169,
+desat,,signal desaturation,5,35183,35185,6
+arousal,,Arousal 1 ARO SPONT,5,35190,35193,
+arousal,,Arousal 2 ARO RES,5,35335,35337.2,
+arousal,,Arousal 1 ARO SPONT,5,35343,35346,
+desat,,signal desaturation,5,35360,35363,4
+desat,,signal desaturation,5,35367,35369,3
+arousal,,Arousal 2 ARO RES,5,35439,35442,
+desat,,signal desaturation,5,35448,35453,9
+arousal,,Arousal 2 ARO RES,5,35497,35500,
+desat,,signal desaturation,5,35506,35508,3
+arousal,,Arousal 2 ARO RES,5,35741,35744,
+desat,,signal desaturation,5,35752,35754,3
+arousal,,Arousal 1 ARO SPONT,5,35796,35799,
+desat,,signal desaturation,2,35826,35828,3
+hypopnea,arousal_only,Hypopnea,2,35832,35846.6,
+arousal,,Arousal 2 ARO RES,2,35848,35850.9,
+desat,,signal desaturation,5,36033,36041,5
+desat,,signal desaturation,5,36060,36065,3
+arousal,,Arousal 2 ARO RES,5,36089,36092,
+arousal,,Arousal 1 ARO SPONT,5,36263,36266.1,
+arousal,,Arousal 1 ARO SPONT,5,36296,36299,
+desat,,signal desaturation,5,36304,36316,10
+arousal,,Arousal 1 ARO SPONT,5,36440,36443,
+arousal,,Arousal 1 ARO SPONT,5,36449,36452,
+arousal,,Arousal 1 ARO SPONT,2,36705,36707.9,
+arousal,,Arousal 1 ARO SPONT,2,36735,36736.1,
+arousal,,Arousal 1 ARO SPONT,2,36833,36836,
+desat,,signal desaturation,2,36848,36865,4
+arousal,,Arousal 1 ARO SPONT,2,36895,36898,
+arousal,,Arousal 1 ARO SPONT,2,36916,36919,
+arousal,,Arousal 1 ARO SPONT,2,37008,37011,
+hypopnea,desaturating,Hypopnea,2,37033,37049.3,2
+arousal,,Arousal 1 ARO SPONT,2,37038,37041,
+desat,,signal desaturation,2,37051,37053,3
+arousal,,Arousal 1 ARO SPONT,2,37238,37241,
+arousal,,Arousal 1 ARO SPONT,2,37359,37360.8,
+arousal,,Arousal 1 ARO SPONT,2,37512,37515,
+arousal,,Arousal 1 ARO SPONT,2,37710,37713,
+arousal,,Arousal 1 ARO SPONT,3,37992,37993.9,
+arousal,,Arousal 1 ARO SPONT,3,38061,38064,
+arousal,,Arousal 1 ARO SPONT,3,38087,38088.9,
+arousal,,Arousal 1 ARO SPONT,3,38178,38179.4,
+arousal,,Arousal 1 ARO SPONT,3,38439,38442,
+arousal,,Arousal 1 ARO SPONT,3,38677,38679.5,
+arousal,,Arousal 1 ARO SPONT,3,39171,39173.3,
+arousal,,Arousal 1 ARO SPONT,3,39434,39436.9,
+arousal,,Arousal 1 ARO SPONT,0,39457,39460,
+desat,,signal desaturation,0,39473,39477,9
+hypopnea,desaturating,Hypopnea,3,39696,39704.8,3
+arousal,,Arousal 1 ARO SPONT,3,39697,39700,
+desat,,signal desaturation,3,39712,39715,3
+arousal,,Arousal 1 ARO SPONT,5,39983,39986,
+arousal,,Arousal 1 ARO SPONT,5,40042,40045,
+desat,,signal desaturation,0,40057,40060,5
+arousal,,Arousal 1 ARO SPONT,2,40177,40180,
+arousal,,Arousal 1 ARO SPONT,2,40219,40222,
+arousal,,Arousal 1 ARO SPONT,2,40303,40306,
+hypopnea,arousal_only,Hypopnea,2,40330,40340.4,
+arousal,,Arousal 2 ARO RES,2,40339,40342.5,
+arousal,,Arousal 1 ARO SPONT,2,40445,40448,
+desat,,signal desaturation,2,40452,40458,7
+arousal,,Arousal 1 ARO SPONT,2,40647,40650,
+arousal,,Arousal 1 ARO SPONT,2,40728,40731,
+arousal,,Arousal 1 ARO SPONT,2,40763,40766,
+arousal,,Arousal 1 ARO SPONT,2,40796,40799,
+desat,,signal desaturation,0,40905,40907,3
+desat,,signal desaturation,0,41324,41328,3
+desat,,signal desaturation,0,41700,41702,3
+desat,,signal desaturation,0,41726,41730,3
+desat,,signal desaturation,0,41754,41759,5
+desat,,signal desaturation,0,41798,41807,3
+desat,,signal desaturation,0,41922,41929,8
+desat,,signal desaturation,0,41941,41951,5
+desat,,signal desaturation,0,42082,42084,7

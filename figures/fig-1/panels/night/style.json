@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "parts": {
+    "order-head.patch0": {
+      "scale": 1.24
+    },
+    "order-head.series.channels": {
+      "scale": 1.16
+    },
+    "order-head.patch1": {
+      "dy_mm": -1.2
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema": 2,
+  "id": "fig-5",
+  "width": {
+    "mm": 178
+  },
+  "letters": {
+    "size_pt": 10,
+    "offset_mm": [
+      0,
+      0
+    ],
+    "weight": "bold",
+    "case": "lower"
+  },
+  "producers": [
+    {
+      "id": "maps",
+      "run": [
+        "python",
+        "figures/fig-5/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-5/spindle_tova_tmaps.csv",
+        "source_data/fig-5/spindle_tova_clusters.csv"
+      ],
+      "panels": [
+        "maps"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "maps",
+      "place": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 178.0,
+        "h": 117.0
+      }
+    }
+  ],
+  "annotations": [],
+  "namespace": "main"
+}

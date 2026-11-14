@@ -1,0 +1,9 @@
+metric_label,band,metric,n_channels,cluster_mass,peak_t,p_value
+Fast duration,fast,Duration,39,91.6195,-3.3956,0.010798
+Slow frequency,slow,Frequency,21,49.3507,-2.7192,0.058988
+Slow amplitude,slow,Amplitude,15,33.1646,2.4928,0.089182
+Slow duration,slow,Duration,11,24.9004,-2.6157,0.104979
+Slow density,slow,Density,0,,,
+Fast density,fast,Density,1,2.1167,-2.1167,0.356729
+Fast amplitude,fast,Amplitude,0,,,
+Fast frequency,fast,Frequency,0,,,
